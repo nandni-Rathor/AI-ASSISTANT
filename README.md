@@ -10,7 +10,7 @@ create a virtual enviorment (python -m venv .venv)
 
 install the requirements.txt (pip install -r requirements.txt)
 
-in the main dir i.e JOI\ create a .env file look at the dotenv_example file copy all and paste in .env
+in the main dir i.e AI ASISTANT\ create a .env file look at the dotenv_example file copy all and paste in .env
 
 get all the api keys and paste them 
 
