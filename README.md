@@ -1,4 +1,4 @@
-# JOI
+# AI ASISTANT
 personal ai agent work in progress 
 
 
